@@ -19,6 +19,6 @@ This is a simple website project for showing how to use Git and Github together.
 ## Deployement
 
 ## How to contribute
-
+Please fork the current repo
 ## Copyright
 Git. 2022 Utkarsh
