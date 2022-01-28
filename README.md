@@ -1,9 +1,19 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+This is a simple website project for showing how to use Git and Github together.
 
 ## Introduction
-
+<!-- lorem ipsum
+	<!-- padding-top: 50px;
+			padding-bottom: 20px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+	<!-- Content Goes Here -->
+		<!-- <p> --> --> -->
 ## Purpose
 
 ## Deployement
